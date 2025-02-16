@@ -1,0 +1,1 @@
+Have you ever wanted to become a vampire or wanted players to be a vampire? Well worry not! I have made a simple script that damages any character with tag "Vampire", if the character is not in shade!
